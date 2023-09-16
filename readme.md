@@ -13,3 +13,4 @@ Após a desistência da compra, o cliente recebe um e-mail com os benefícios em
 
 [Fluxograma do projeto](https://lucid.app/lucidchart/f7a2572f-b4ad-4250-aec4-dca763dcb71c/edit?viewport_loc=234%2C34%2C1664%2C825%2C0_0&invitationId=inv_e2a4a03d-355e-4aaf-ad4c-e86b18b55de5)
 
+https://www.canva.com/design/DAFukK0lBkw/1GKSxPcVN_pmD9DR-V55mQ/edit?utm_content=DAFukK0lBkw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
